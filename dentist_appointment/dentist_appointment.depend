@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705352179 source:d:\codeblocks projects\dentist_appointment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
